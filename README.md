@@ -3,7 +3,7 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Nunes e posso ser o seu próximo talento!</h1>
 <h3 align="center">Engenheiro Eletricista em transição de carreira para DEV.</h3>
 
-- 🌱 Atualmente estou aprendendo **Java orientado a objeto e focado no Decola Tech 3a edição**
+- 🌱 Atualmente estou aprendendo **Java orientado a objeto / QA e focado no Decola Tech 3a edição!**
 
 - 📫 Entre em contato: **lucanunes.9403@gmail.com**
 
