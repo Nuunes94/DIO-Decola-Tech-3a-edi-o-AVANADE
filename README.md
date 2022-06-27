@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java orientado a objeto / QA**
 
-- 📫 Entre em contato: **lucanunes.9403@gmail.com**
+- 📫 Entre em contato: **lucasnunes.9403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
