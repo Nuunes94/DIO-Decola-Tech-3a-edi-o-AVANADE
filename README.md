@@ -1,15 +1,13 @@
-# DIO-Decola-Tech-3a-edi-o-AVANADE
-
 <h1 align="center">Olá 👋, Eu sou Lucas Nunes e posso ser o seu próximo talento!</h1>
 <h3 align="center">Engenheiro Eletricista em transição de carreira.</h3>
 
-- 🌱 Atualmente estou aprendendo **Java orientado a objeto e testes**
+- 🌱 Atualmente estou aprendendo **Java orientado a objeto / QA**
 
 - 📫 Entre em contato: **lucasnunes.9403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-nunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-nunes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-nunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-nunes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
